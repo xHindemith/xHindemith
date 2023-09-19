@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi, I'm Kostas</h1>
 <h3 align="center">PASSIONATE SOFTWARE DEVELOPER | CAREER PIVOT| SEO EXPERT</h3>
 
